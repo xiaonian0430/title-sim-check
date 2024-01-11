@@ -1,0 +1,17 @@
+Flask==2.2.2
+Flask-Cors==3.0.10
+jieba==0.42.1
+gevent==21.12.0
+gevent-websocket
+gunicorn
+wget==3.2
+gensim==4.2.0
+PyMySQL==1.0.2
+elasticsearch7==7.14.2
+baidu-aip-http2==2.2.17.0
+numpy==1.23.2
+requests==2.28.1
+snowflake-id==0.0.2
+Pillow==9.2.0
+opencv-python==4.6.0.66
+my-fake-useragent==0.2.0
